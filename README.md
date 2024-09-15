@@ -1,0 +1,1 @@
+# secure-solr-elasticsearch-bulk-migration
